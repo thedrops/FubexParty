@@ -1,0 +1,5 @@
+C:\Users\a155137x\Documents\FubexParty-master\FubexPartyDominio\bin\Debug\FubexPartyDominio.dll
+C:\Users\a155137x\Documents\FubexParty-master\FubexPartyDominio\bin\Debug\FubexPartyDominio.pdb
+C:\Users\a155137x\Documents\FubexParty-master\FubexPartyDominio\obj\Debug\FubexPartyDominio.csprojResolveAssemblyReference.cache
+C:\Users\a155137x\Documents\FubexParty-master\FubexPartyDominio\obj\Debug\FubexPartyDominio.dll
+C:\Users\a155137x\Documents\FubexParty-master\FubexPartyDominio\obj\Debug\FubexPartyDominio.pdb
